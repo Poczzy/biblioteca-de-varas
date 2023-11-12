@@ -2,7 +2,7 @@
     "productos": [
         {
             "Nombre": "Lingua pods 1",
-            "imagen": "img/Lingua1.jpg", 
+            "imagen": "img/lingua1.jpg", 
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
@@ -13,7 +13,7 @@
         },
         {
              "Nombre": "Lingua pods 2",
-            "imagen": "img/LIngua2.jpg",
+            "imagen": "img/lingua2.jpg",
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
