@@ -14,15 +14,13 @@
         {
              "Nombre": "Lingua pods 2",
             "imagen": "img/lingua2.JPG",
-            "Sensores": "Sensores: dos micrófonos con tecnología beamforming.",
-			"Controles": "Controles: presiona dos veces para avanzar, presiona tres veces para retroceder.",
+            "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
+			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
-			"Tamaño_peso": "Tamaño y peso: alto: 4,64 cm, ancho: 5,44 cm, grosor: 2,14 cm, peso: 37,91 g.",
-			"Bateria" : "Batería: hasta 5 horas de reproducción con una carga, hasta 4.5 horas de reproducción de audio con una sola carga (hasta 5 horas con la cancelación activa de ruido desactivada).",
-			"Accesorios": "Accesorios: estuche de carga Lightning o estuche de carga MagSafe, cable de Lightning a USB-C.",
+			"Tamaño_peso": "Tamaño y peso: alto: 53.5 mm, ancho: 44.3 mm, grosor: 21.3 mm, peso: 38.2 g.",
+			"Bateria" : "Batería: hasta 5 horas de reproducción con una carga.",
+			"Accesorios": "Accesorios: estuche de carga Lightning, cable de Lightning a USB-A",
 			"Traduccion" : "Traduccion: Cuentan con traduccion a tiempo real por una membersia paga de $5 al mes"
-		             "Nombre": "Lingua pods 2"
-           
         }
    ]
 }
