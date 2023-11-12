@@ -3,7 +3,8 @@
         {
             "Nombre": "Lingua pods 1",
             "imagen": "img/lingua1.jpg", 
-            "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
+		"Precio" : "$150",
+            "Sensores": "Sensores: Dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
 			"Tamaño_peso": "Tamaño y peso: alto: 53.5 mm, ancho: 44.3 mm, grosor: 21.3 mm, peso: 38.2 g.",
@@ -14,6 +15,7 @@
         {
              "Nombre": "Lingua pods 2",
             "imagen": "img/lingua2.jpg",
+		"Precio" : "$225",
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
@@ -24,6 +26,7 @@
         },
         {
             "Nombre": "Lingua pods 3",
+		"Precio" : "$300",
             "imagen": "img/lingua3.jpg", 
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
@@ -35,6 +38,7 @@
         },
         {
             "Nombre": "Lingua pods max",
+		"Precio" : "$400",
             "imagen": "img/linguamax.jpg", 
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
@@ -46,6 +50,7 @@
         },
         {
             "Nombre": "Lingua pods cowork",
+		"Precio" : "$350",
             "imagen": "img/linguacowork.jpg", 
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
