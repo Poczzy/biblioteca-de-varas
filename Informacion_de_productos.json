@@ -2,8 +2,8 @@
     "productos": [
         {
             "Nombre": "Lingua pods 1",
+	"Precio" : "Precio $150",
             "imagen": "img/lingua1.jpg", 
-		"Precio" : "Precio: $150",
             "Sensores": "Sensores: Dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
@@ -14,8 +14,8 @@
         },
         {
              "Nombre": "Lingua pods 2",
+		"Precio" : "Precio $225",
             "imagen": "img/lingua2.jpg",
-		"Precio" : "Precio: $225",
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "presiona dos veces para avanzar, presiona tres veces para retroceder.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
@@ -26,19 +26,19 @@
         },
         {
             "Nombre": "Lingua pods 3",
-		"Precio" : "Precio: $300",
+		"Precio" : "Precio $300",
             "imagen": "img/lingua3.jpg", 
             "Sensores": "Sensores: dos micrófonos con tecnología beamforming, dos sensores ópticos, acelerómetro con detección de movimiento, acelerómetro con detección de voz.",
 			"Controles": "Controles: presiona dos veces para avanzar, presiona tres veces para retroceder, mantén presionado para cambiar entre cancelación activa de ruido y modo ambiente.",
 			"conectividad": "Conectividad: Bluetooth 5.0.",
-			"Tamaño_peso": "Tamaño y peso: alto: 30.9 mm, ancho: 21.8 mm, grosor: 24 mm, peso: 5.4 g.",
+			"Tamaño_peso": "Tamaño y peso: alto: 30.9 mm, ancho: 21.8 mm, grosor: 24 mm, peso: 38.4 g.",
 			"Bateria" : "Batería:hasta 4.5 horas de reproducción de audio con una sola carga (hasta 5 horas con la cancelación activa de ruido y el modo ambiente desactivados).",
 			"Accesorios": "Accesorios:  estuche de carga MagSafe, almohadillas de silicón (tres tamaños), cable de Lightning a USB-C.",
 			"Traduccion" : "Traduccion: Cuentan con traduccion a tiempo real."
         },
         {
             "Nombre": "Lingua pods max",
-		"Precio" : "Precio: $400",
+		"Precio" : "Precio $400",
             "imagen": "img/linguamax.jpg", 
             "Sensores": "audio de alta fidelidad con un nivel de distorsión ultra bajo en el rango audible.Tecnología de cancelación activa de ruido con seis micrófonos orientados hacia afuera y dos micrófonos orientados hacia adentro.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
@@ -50,14 +50,14 @@
         },
         {
             "Nombre": "Lingua pods cowork",
-		"Precio" : "Precio: $350",
+		"Precio" : "Precio $325",
             "imagen": "img/linguacowork.jpg", 
             "Sensores": "Sensores: Micrófono con cancelación de ruido para una mejor calidad de voz.",
 			"Controles": "Controles: presiona dos veces para reproducir, avanzar o contestar una llamada.",
 			"conectividad": "Alcance inalámbrico de hasta 100 metros.Perfiles de Bluetooth: PBAP.Comunicación de Campo Cercano (NFC).Conector RJ-9.",
 			"Tamaño_peso": "peso: alto: Peso de 18 gramos, lo que lo convierte en uno de los auriculares centrados en llamadas más ligeros del mercado.",
 			"Bateria" : "Batería: Autonomía de hasta 9 horas.",
-			"Accesorios": "Accesorios: estuche de carga Lightning, cable de Lightning a USB-A",
+			"Accesorios": "Accesorios: Estuche para mejorar la vida util.",
 			"Traduccion" : "Traduccion: Cuentan con traduccion a tiempo real."
         }
 
